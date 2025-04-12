@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Java Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Java+Developer+with+4+Years+Experience;Spring+Boot+%7C+Angular+%7C+AWS+%7C+Docker+%7C+Kubernetes;Passionate+about+Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Java+FullStack Developer+%7C+4%2B+Years+Experience;Spring+Boot+%7C+Angular+%7C+AWS+%7C+Docker+%7C+Kubernetes;Loves+Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
 </p>
 
 ---
